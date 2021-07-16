@@ -58,6 +58,10 @@ echo "El doble de tu edad";
 
 break;
 
+default:
+
+break;
+
 }
 
 ?>
